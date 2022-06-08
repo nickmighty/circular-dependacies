@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "good": "cd good && node index.js",
+    "ugly": "cd ugly && node index.js",
+    "bad": "cd bad && node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
